@@ -1,0 +1,12 @@
+let's say there's a challenge that requires to both eat a pizza and drink cola. you will win if you're the fastest to eat and drink that pizza and cola.
+
+Concurrency:
+mean u doing eating and drink at the same time but not doing them simultaneously. u will probably drink first and then eat and then drink again until it is finished.
+
+you will eat -> drink -> eat -> drink -> until win
+
+Parallel:
+mean doing eating and drink at the same time but separated them and doing it simultaneously. so you will probably helped by your friend and u choose to eat and ur friend will drink until win.
+
+you -> eat -> finish 
+friend -> drink -> finish
